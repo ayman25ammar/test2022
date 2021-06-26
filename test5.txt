@@ -1,0 +1,11 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est B41F-599F
+
+ R‚pertoire de C:\Users\TOSHIBA\Desktop\test2022
+
+26/06/2021  11:57    <DIR>          .
+26/06/2021  11:57    <DIR>          ..
+26/06/2021  09:50               379 test1.txt
+26/06/2021  11:57               145 test2.txt
+               2 fichier(s)              524 octets
+               2 R‚p(s)  23ÿ638ÿ167ÿ552 octets libres
